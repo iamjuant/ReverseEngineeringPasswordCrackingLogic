@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Passphrase4",
+            "request": "launch",
+            "mainClass": "Passphrase4",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Passphrase5",
+            "request": "launch",
+            "mainClass": "Passphrase5",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Passphrase3",
+            "request": "launch",
+            "mainClass": "Passphrase3",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Passphrase2",
+            "request": "launch",
+            "mainClass": "Passphrase2",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Passphrase1",
+            "request": "launch",
+            "mainClass": "Passphrase1",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch number3",
+            "request": "launch",
+            "mainClass": "number3",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Passwords",
+            "request": "launch",
+            "mainClass": "Passwords",
+            "projectName": "ReverseCode_28a08ea2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        },
+        {
+            "type": "java",
+            "name": "Launch try2",
+            "request": "launch",
+            "mainClass": "try2",
+            "projectName": "ReverseCode_28a08ea2"
+        }
+    ]
+}
